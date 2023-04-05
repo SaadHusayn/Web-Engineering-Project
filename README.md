@@ -4,6 +4,7 @@
 <li>XAMPP to run the website locally on their machine or</li>
 <li>PHP (Hypertext Preprocessor) version 7.3.0 or higher installed on the machine and a MySQL (or similar) database management system to store and manage the website's data.</li>
 </ul> 
+
 # Step by Step guide to run the project: 
 <ol>
 <li>First of all download the zip file onto your system or clone the repository.</li>
